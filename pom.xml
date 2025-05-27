@@ -280,7 +280,7 @@
                         <configuration>
 							<checksums>required</checksums>
                             <skipPublishing>false</skipPublishing>
-                            <publishingServerId>sonatype-nexus-staging</publishingServerId>
+                            <publishingServerId>sonatype-nexus-staging-anet</publishingServerId>
                         </configuration>
                     </plugin>
                 </plugins>
